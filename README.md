@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @solitaeryheart
+- 👋 Hi, I’m Sheikh Hazik
 - 👀 I’m interested in AI/ML/CyberSecurity
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on projects
